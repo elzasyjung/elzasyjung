@@ -1,5 +1,3 @@
-![Alt Text](bern.png)
-
 ## Introducing myself 🙋🏻‍♀️
 Hello, my name is Elza. I'm a Data/AI engineer with expertise in Big data, Data Analysis, Machine Learning, Reporting, and Cloud Architecture.
 
