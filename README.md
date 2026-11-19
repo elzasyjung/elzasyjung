@@ -13,5 +13,4 @@ Data Visualization: Tableau, Power BI \
 Skills: Bash, Linux, Docker, AWS, GCP, Azure \
 Framework/Libraries: React, Next.js, TypeScript, Tailwind CSS, FastAPI, Express
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elzasyjung&layout=compact&theme=tokyonight)
 ![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
