@@ -1,5 +1,5 @@
 ## Introducing myself 🙋🏻‍♀️
-Hello, my name is Elza. I'm a Data/AI engineer with expertise in Big data, Data Analysis, Machine Learning, Reporting, and Cloud Architecture.
+Hello, I'm a Data/AI engineer with expertise in Big data, Data Analysis, Machine Learning, Reporting, and Cloud Architecture.
 
 ## Portfolio 💼
 Data Analytics & Engineering: View [Portfolio](https://github.com/ElzaJung/Elza-s-Portfolio)
